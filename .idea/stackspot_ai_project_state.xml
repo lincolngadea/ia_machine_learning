@@ -6,13 +6,21 @@
         <entry key="lincoln.gadea@zup.com.br">
           <value>
             <ProjectStateData>
-              <option name="conversationId" value="01JHZJ6G2V36CN7NZDJDRH8T3C" />
+              <option name="conversationId" value="01JHZZH6TZ4MK695N1YYE99WAH" />
               <option name="indexedFiles">
                 <map>
+                  <entry key="$PROJECT_DIR$/.gitignore" value="25887" />
                   <entry key="$PROJECT_DIR$/sample_k-means.py" value="64404" />
                 </map>
               </option>
               <option name="projectId" value="01JHZC42GHHB0CQKJNM87JT7NT" />
+            </ProjectStateData>
+          </value>
+        </entry>
+        <entry key="unauthenticated">
+          <value>
+            <ProjectStateData>
+              <option name="projectId" value="01JHZZDJEFDJHGQVR54C5H4KKD" />
             </ProjectStateData>
           </value>
         </entry>
