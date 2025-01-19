@@ -1,0 +1,35 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+*.swo
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.tmp
+
+# Virtual Environment
+venv/
+.env
+*.env
+
+# PyCharm
+.idea/
+*.iml
+workspace.xml
+tasks.xml
+usage.statistics.xml
+datalore/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# StackSpot
+.stkignore
