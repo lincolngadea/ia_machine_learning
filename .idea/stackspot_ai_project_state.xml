@@ -6,14 +6,20 @@
         <entry key="lincoln.gadea@zup.com.br">
           <value>
             <ProjectStateData>
-              <option name="conversationId" value="01JJ89QEY8DTZAKR6V96PKZ6FQ" />
+              <option name="conversationId" value="01JJ8F419Z9QRFY8HTKJ435F9P" />
               <option name="indexedFiles">
                 <map>
                   <entry key="$PROJECT_DIR$/.gitignore" value="25887" />
                   <entry key="$PROJECT_DIR$/sample_k-means.py" value="64404" />
                   <entry key="$PROJECT_DIR$/sample_last_checkpoint.py" value="6193" />
                   <entry key="$PROJECT_DIR$/sample_maquinas_vetores_suporte.py" value="321265" />
-                  <entry key="$PROJECT_DIR$/sample_processos_concorrentes_assyncronos.py" value="180512" />
+                  <entry key="$PROJECT_DIR$/sample_processos_concorrentes_assyncronos.py" value="181875" />
+                  <entry key="$PROJECT_DIR$/sample_prog_reativa_1.py" value="184267" />
+                  <entry key="$PROJECT_DIR$/sample_prog_reativa_2.py" value="212363" />
+                  <entry key="$PROJECT_DIR$/sample_prog_reativa_3.py" value="213780" />
+                  <entry key="$PROJECT_DIR$/sample_prog_reativa_4.py" value="225109" />
+                  <entry key="$PROJECT_DIR$/sample_prog_reativa_5.py" value="225287" />
+                  <entry key="$PROJECT_DIR$/sample_prog_reativa_6.py" value="233838" />
                   <entry key="$PROJECT_DIR$/sample_rede_neural.py" value="285866" />
                   <entry key="$PROJECT_DIR$/sample_threads.py" value="328000" />
                 </map>
@@ -25,7 +31,7 @@
         <entry key="unauthenticated">
           <value>
             <ProjectStateData>
-              <option name="projectId" value="01JHZZDJEFDJHGQVR54C5H4KKD" />
+              <option name="projectId" value="01JJ8E5VM84SZE9QQNNQ1XNP3A" />
             </ProjectStateData>
           </value>
         </entry>
