@@ -6,11 +6,12 @@
         <entry key="lincoln.gadea@zup.com.br">
           <value>
             <ProjectStateData>
-              <option name="conversationId" value="01JJ38N718Z5R1KZMD4NFDRT2B" />
+              <option name="conversationId" value="01JJ85BFCMZVJ5H0EMJ9WCF8GB" />
               <option name="indexedFiles">
                 <map>
                   <entry key="$PROJECT_DIR$/.gitignore" value="25887" />
                   <entry key="$PROJECT_DIR$/sample_k-means.py" value="64404" />
+                  <entry key="$PROJECT_DIR$/sample_last_checkpoint.py" value="6193" />
                   <entry key="$PROJECT_DIR$/sample_maquinas_vetores_suporte.py" value="321265" />
                   <entry key="$PROJECT_DIR$/sample_rede_neural.py" value="285866" />
                   <entry key="$PROJECT_DIR$/sample_threads.py" value="328000" />
